@@ -24,3 +24,5 @@
 2. Add Program 2: Student Profile
 3. Add Program 3: Bill Splitter
 4. Add README with program notes
+
+I successfully uploaded my NTC ITELEC2 Week 1 C# activity.
